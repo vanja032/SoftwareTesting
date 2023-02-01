@@ -1,0 +1,60 @@
+Naziv testa: RegistracijaTest
+Opis testa: Testiranje uspesnosti registracije korisnika
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: PrijavaTest
+Opis testa: Testiranje uspesnosti prijave korisnika
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: IspravnaRegistracijaTest
+Opis testa: Testiranje tacnosti podataka tokom registracije korisnika
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: KorpaTest
+Opis testa: Testiranje uspesnosti dodavanja proizvoda u korpu
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: UkupnaCenaTest
+Opis testa: Testiranje tacnosti podataka za ukupnu cenu dodatih proizvoda u korpu
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: PerfomanseTest
+Opis testa: Testiranje perfomansi otvaranja 5 razlicitih stranica
+Uspesnost: Test je uspesno izvrsen
+Perfomanse: 
+	Vreme otvaranja prve stranice: 0.687s.
+	Vreme otvaranja druge stranice: 0.379s.
+	Vreme otvaranja trece stranice: 0.354s.
+	Vreme otvaranja cetvrte stranice: 0.41s.
+	Vreme otvaranja pete stranice: 0.393s.
+
+Ukupno vreme: 2.223s, prosecno vreme otvaranja po stranama je: 0.4446s.
+
+
+Naziv testa: KompanijaTest
+Opis testa: Testiranje tacnosti opisa kompanije
+Uspesnost: Test je uspesno izvrsen
+O kompaniji: 
+Shoppster je inovativna e-commerce platforma u potpunosti okrenuta kupcu, kreirana na temelju superiorne tehnologije i najsavremenije IT logistike. Svakodnevno se trudimo da u punoj meri odgovorimo na razli?ite zahteve i o?ekivanja online šopinga i svakom kupcu u svakom trenutku ponudimo udobno, jednostavno, bezbedno i efikasno iskustvo kupovine.
+Mnoge karakteristike Shoppster izdvajaju i ?ine jedinstvenim - u ponudi imamo preko 180.000 proizvoda i više od 3.500 brendova iz svih kategorija, kao i jedinstvenu mogu?nost pra?enja pošiljke. Tu je i TV kanal na kom detaljno možete da se upoznate s razli?itim proizvodima, njihovim karakteristika i na?inima upotrebe, ali i ekskluzivne linije Shoppster i Prakti?na žena proizvoda.
+
+
+Naziv testa: NewsletterTest
+Opis testa: Testiranje uspesne prijave korisnika na listu obavestenja
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: ListaZeljaTest
+Opis testa: Testiranje uspesnog dodavanja proizvoda u listu zelja
+Uspesnost: Test je uspesno izvrsen
+
+
+Naziv testa: PretragaTest
+Opis testa: Testiranje uspesno izvrsene pretrage proizvoda
+Uspesnost: Test je uspesno izvrsen
+

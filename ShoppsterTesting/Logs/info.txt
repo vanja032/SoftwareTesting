@@ -1,0 +1,12 @@
+Feb 01, 2023 2:41:05 AM shopstertests.RunTests main
+INFO: Vreme izvrsavanja testova: 271929
+Feb 01, 2023 2:41:05 AM shopstertests.RunTests main
+INFO: Ukupan broj testova: 10
+Feb 01, 2023 2:41:05 AM shopstertests.RunTests main
+INFO: Broj uspesnih testova: 10
+Feb 01, 2023 2:41:05 AM shopstertests.RunTests main
+INFO: Broj palih testova: 0
+Feb 01, 2023 2:41:05 AM shopstertests.RunTests main
+INFO: Broj preskocenih testova: 0
+Feb 01, 2023 2:41:05 AM shopstertests.RunTests main
+INFO: Broj dinamickih preskocenih testova: 0
